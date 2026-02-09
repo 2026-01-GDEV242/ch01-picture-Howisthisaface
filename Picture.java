@@ -120,7 +120,7 @@ public class Picture
             hat.changeColor("black");
             hat.changeSize(25,-35);
             hat.moveHorizontal(-80);
-            hat.moveVertical(30);
+            hat.moveVertical(50);
             hat.makeVisible();
             
             drawn = true;
